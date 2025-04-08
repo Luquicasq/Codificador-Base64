@@ -2,4 +2,4 @@
 
 ## Descripción
 
-Este proyecto es un **Codificador Base64** que permite convertir cadenas en base hexzadecimal en Base64.
+Este proyecto es un **Codificador Base64** que permite convertir cadenas en base hexadecimal en Base64.
